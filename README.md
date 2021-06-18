@@ -1,3 +1,21 @@
+# Hosted Link
+Link: [Whatsapp-Clone](https://whatschaap-10671.web.app/)
+
+# About Project
+End to End developement of Clone of Whatsapp using 
+1.) React.js
+2.) Firebase Firestore realtime db
+3.) Material UI
+4.) React Router
+5.) React Context API
+6.) Google Authentication
+7.) Deployment using Firebase
+Allow users to create different rooms and have chat in the room in an environment like Whatsapp.
+Provided features like Emoji Selector for Windows and Last Seen at like functionalities.![Screenshot (459)](https://user-images.githubusercontent.com/59698606/122528900-74220800-d03a-11eb-9165-0361c153a265.png)
+ 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
